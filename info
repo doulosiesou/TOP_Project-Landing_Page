@@ -1,0 +1,7 @@
+Repository name:
+  TOP_Project-Landing_Page
+Project SSH URL
+  git@github.com:doulosiesou/TOP_Project-Landing_Page.git
+From the root folder in the local repository folder type the following in terminal
+  git clone git@github.com:doulosiesou/TOP_Project-Landing_Page.git
+  
